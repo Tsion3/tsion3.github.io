@@ -1,5 +1,5 @@
 body {
-	 Background: lightskyblue;
+	 Background: grey;
 	font-family:"Times New Roman", Times, serif;
 }
 	
@@ -9,7 +9,7 @@ body {
 	margin-right:auto;
 	width:700px;
 Background-color:CornflowerBlue ;
-	color:black;
+	color:white;
 	padding: 35px;
 	font-family: 'Lato', san-serif;
 	font-size:medium;
@@ -38,7 +38,7 @@ a:visited {
 }
  
  #home, #page2 {
-background color:AliceBlue 
+background color:dark grey
  padding:35px
 }
  h3 {
