@@ -10,7 +10,7 @@ body {
 	width:700px;
 Background-color:CornflowerBlue ;
 	color:white;
-	padding: 35px;
+	padding: 100px;
 	font-family: 'Lato', san-serif;
 	font-size:medium;
 	boarder:white inset 40px;
@@ -18,7 +18,7 @@ Background-color:CornflowerBlue ;
 }
 #boarder{
 	background:grey;
-	padding: 40px;
+
 }
 
 
