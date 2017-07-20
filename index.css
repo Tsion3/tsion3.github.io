@@ -16,6 +16,10 @@ Background-color:CornflowerBlue ;
 	boarder:white inset 40px;
 
 }
+#boarder{
+	background:blue;
+}
+
 
 h1 { 
 
