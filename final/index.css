@@ -1,1 +1,27 @@
+body {
+	 Background: black;
+	font-family:"Times New Roman", Times, serif;
+}
+	
+#contents {
+	background: #444 url("http://media.gettyimages.com/videos/abstract-electronic-circuits-loop-black-and-white-version-video-id114143852?s=640x640");
+P{
+  font-family:sans-serif;
+}
 
+h1{
+  color:Black;
+}
+H2{
+  Color: Black;
+}
+  .heading{
+    font-weight;bold;
+  }
+  #dog{
+    color:blue;
+    font-size:200%;
+}
+a{
+  color: purple
+}
