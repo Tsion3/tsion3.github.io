@@ -1,5 +1,5 @@
 body {
-	 Background: black;
+	 Background: white;
 	font-family:"Times New Roman", Times, serif;
 }
 	
@@ -84,7 +84,7 @@ float:right
 
 .topnav a:hover {
  background-color: #ddd;
- color: black;
+ color: white;
 }
 
 .topnav .icon {
