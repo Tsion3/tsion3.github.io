@@ -1,1 +1,41 @@
+#contents{
+	background: #444 url("http://www.daoulaba.com/i/2017/05/city-night-wallpaper-widescreen.jpg");
+ 
+}
+#Home{
+ Background: #444 url("http://newevolutiondesigns.com/images/freebies/black-white-background-2.jpg");
+Background-color: yellow;
+ 
+}
+ .topnav {
+ overflow: hidden;
+    background: rgba(0,0,0,.75);
+    border-radius: 0px;
+    margin-top: 0px;
+    width: 328px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.topnav a {
+ float: left;
+ display: block;
+ color: #f2f2f2 ;
+ text-align: center;
+ padding: 14px 16px;
+ text-decoration: none;
+ font-size: 17px;
+}
+
+.topnav a:hover {
+ background-color: #ddd;
+ color: pink;
+}
+
+.topnav .icon {
+ display: none;
+}
+Body{
+	color:white;
+}
 
