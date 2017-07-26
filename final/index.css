@@ -2,8 +2,8 @@
  
 }
 #Home{
- Background: url("http://newevolutiondesigns.com/images/freebies/black-white-background-2.jpg");
-color: yellow;
+ Background: #444 url("http://newevolutiondesigns.com/images/freebies/black-white-background-2.jpg");
+Background-color: yellow;
  
 }
  .topnav {
