@@ -10,8 +10,8 @@ Background-color: yellow;
  .topnav {
  overflow: hidden;
     background: rgba(0,0,0,.75);
-    border-radius: 10px;
-    margin-top: 10px;
+    border-radius: 0px;
+    margin-top: 0px;
 }
 
 .topnav a {
