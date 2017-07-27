@@ -1,6 +1,11 @@
 #contents{
 	background:Grey;
- 
+	width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+}
+ #boarder{
+	 background:black;
 }
 #Home{
  Background: #444 url("http://newevolutiondesigns.com/images/freebies/black-white-background-2.jpg");
