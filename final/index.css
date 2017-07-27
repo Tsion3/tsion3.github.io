@@ -1,5 +1,5 @@
 #contents{
-	background:black;
+	background:grey;
  
 }
 #Home{
@@ -42,7 +42,7 @@ Body{
 	
 }
 .center{
-	width: 850px;
+	width: 500px;
 	margin-left:auto;
 	margin-right:auto;
 }
