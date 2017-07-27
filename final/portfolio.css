@@ -15,7 +15,7 @@ Background-color: yellow;
     width: 328px;
     margin-left: auto;
     margin-right: auto;
-	 display:block;
+	 
 }
 
 .topnav a {
@@ -43,4 +43,5 @@ Body{
 	width: 850px;
 	margin-left:auto;
 	margin-right:auto;
+	display:block;
 }
