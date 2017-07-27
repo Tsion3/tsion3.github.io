@@ -46,4 +46,6 @@ Body{
 	margin-left:auto;
 	margin-right:auto;
 }
-
+#clearer {
+    clear: both;
+}
